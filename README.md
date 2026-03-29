@@ -4,7 +4,7 @@
 
 ## 📊 About Me
 
-I am currently learning Data Analysis using Python and working on real-world projects to improve my skills.
+I focus on data analysis projects using Python to develop practical skills and generate real-world insights.
 
 I enjoy exploring data, cleaning it, and finding meaningful insights that can help in decision-making.
 
